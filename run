@@ -6,4 +6,4 @@ make clean
 make
 
 ./floorplanner 0.5 testcases/${project_name}/${project_name}.block testcases/${project_name}/${project_name}.nets output.txt
-python3 draw_block_layout.py draw.txt output_draw.png
+python3 draw_block_layout.py draw.txt draw.png
